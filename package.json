@@ -1,0 +1,21 @@
+{
+  "name": "bendiservicechecker",
+  "version": "1.0.0",
+  "description": "Detect whether or not my services are functioning properly",
+  "homepage": "https://github.com/ArbiterBibendi/BendiServiceChecker#readme",
+  "bugs": {
+    "url": "https://github.com/ArbiterBibendi/BendiServiceChecker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArbiterBibendi/BendiServiceChecker.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
