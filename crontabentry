@@ -1,0 +1,2 @@
+HOME=/home/bibendi/workspace/BendiServiceChecker
+0 * * * * /usr/bin/node /home/bibendi/workspace/BendiServiceChecker/index.js > /home/bibendi/bendiservicecheckerresults
